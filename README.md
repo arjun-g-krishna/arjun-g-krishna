@@ -1,6 +1,6 @@
 ### Hello! I'm Arjun 👋
 
-## I'm a student and wannabe programmer 💻😅
+### I'm a student and wannabe programmer 💻😅
 
 - I'm currently working on my Engineering (B.Tech) degree 🧑🏽‍🎓
 - I'm always trying to learn new stuff 🔍
