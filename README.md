@@ -2,7 +2,7 @@
 
 ### I'm a student and a newbie programmer 💻😅
 
-- I'm currently working on my Engineering (B.Tech) degree 🧑🏽‍🎓
+- I'm currently working on my Engineering (B.Tech) degree🎓
 - I'm always trying to learn new stuff 🔍
 - Looking forward towards contributing to opensource 🌱
 
