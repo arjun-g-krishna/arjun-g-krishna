@@ -25,6 +25,6 @@
 <img align="left" alt="figma" width="26px" src="icons/figma.png" />
 
 [instagram]: https://instagram.com/arjunradhakrishnan_
-[linkedin]: https://www.linkedin.com/in/arjun-g-krishna
+[linkedin]: https://www.linkedin.com/in/arjun-gkrishna/
 [website]: https://arjun-g-krishna.github.io
 [gmail]: mailto:arjungkrishna1@gmail.com
