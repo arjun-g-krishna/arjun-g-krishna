@@ -10,7 +10,7 @@
 
 [<img align="left" alt="insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -31,4 +31,4 @@
 [instagram]: https://instagram.com/arjunradhakrishnan_
 [linkedin]: https://www.linkedin.com/in/arjun-g-krishna
 [website]: https://arjun-g-krishna.github.io
-[facebook]: https://www.facebook.com/arjung29
+[gmail]: mailto:arjungkrishna1@gmail.com
