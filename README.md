@@ -21,7 +21,7 @@
 <img align="left" alt="CSS3" width="26px" src="icons/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="icons/js.png" />
 <img align="left" alt="Python" width="26px" src="icons/python.png" />
-<img align="left" alt="React" width="26px" src="icons/react.png" />
+<img align="left" alt="React" width="26px" src="icons/reactjs.png" />
 <img align="left" alt="figma" width="26px" src="icons/figma.png" />
 
 [instagram]: https://instagram.com/arjunradhakrishnan_
