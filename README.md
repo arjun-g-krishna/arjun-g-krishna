@@ -4,10 +4,10 @@ Hello! I'm Arjun, I am an engineering student and a programmer
 
 [<img align="left" alt="insta" width="22px" src="icons/instagram.png" />][instagram]
 [<img align="left" alt="website" width="22px" src="icons/web.png" />][website]
-[<img align="left" alt="email" width="22px" src="icons/email.png" />][gmail]
+[<img align="left" alt="email" width="22px" src="icons/email.png" />][mail]
 [<img align="left" alt="LinkedIn" width="22px" src="icons/linkedin.png" />][linkedin]
 
 [instagram]: https://instagram.com/arjunradhakrishnan_
 [linkedin]: https://www.linkedin.com/in/arjun-gkrishna/
 [website]: https://arjun-g-krishna.github.io
-[gmail]: mailto:arjungkrishna1@gmail.com
+[mail]: mailto:arjungk@pm.me
