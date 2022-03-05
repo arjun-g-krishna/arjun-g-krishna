@@ -7,7 +7,7 @@ Hello! I'm Arjun, I am an engineering student and a programmer
 [<img align="left" alt="email" width="22px" src="icons/email.png" />][mail]
 [<img align="left" alt="LinkedIn" width="22px" src="icons/linkedin.png" />][linkedin]
 
-[instagram]: https://instagram.com/arjunradhakrishnan_
+[instagram]: https://instagram.com/arjun_g_29
 [linkedin]: https://www.linkedin.com/in/arjun-gkrishna/
 [website]: https://arjun-g-krishna.github.io
 [mail]: mailto:arjungk@pm.me
