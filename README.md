@@ -10,7 +10,8 @@ I'm an Engineering Student and a programmer. I like learning new stuff.
 ReactJS, Vue3, Javascript, HTML, CSS, Python and Golang
 
 
-## Other Common Github Profile Sections
+## More stuff about me
+
 👩‍💻 I'm currently working on improving my competitive coding skills
 
 🧠 I'm currently learning NextJS
