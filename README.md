@@ -1,13 +1,34 @@
-Hello! I'm Arjun, I am an engineering student and a programmer
 
-### Connect with me:
+# Hi, I'm Arjun! 👋
 
-[<img align="left" alt="insta" width="22px" src="icons/instagram.png" />][instagram]
-[<img align="left" alt="website" width="22px" src="icons/web.png" />][website]
-[<img align="left" alt="email" width="22px" src="icons/email.png" />][mail]
-[<img align="left" alt="LinkedIn" width="22px" src="icons/linkedin.png" />][linkedin]
 
-[instagram]: https://instagram.com/arjun_g_29
-[linkedin]: https://www.linkedin.com/in/arjun-gkrishna/
-[website]: https://arjun-g-krishna.github.io
-[mail]: mailto:arjungk@pm.me
+## 🚀 About Me
+I'm an Engineering Student and a programmer. I like learning new stuff.
+
+
+## 🛠 Skills
+ReactJS, Vue3, Javascript, HTML, CSS, Python and Golang
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on improving my competitive coding skills
+
+🧠 I'm currently learning NextJS
+
+👯‍♀️ I'm looking to collaborate on a new open source project
+
+🤔 I'm looking for help with competitive coding
+
+💬 Ask me about GNU/Linux
+
+📫 How to reach me [arjungk@pm.me]( mailto:arjungk@pm.me)
+
+😄 Pronouns he/him
+
+⚡️ Fun fact: I can solve a rubik's cube in 30 seconds!
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arjun-g-krishna.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-gkrishna/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arjun_g_krishna)
+
