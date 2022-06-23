@@ -1,4 +1,3 @@
-
 # Hi, I'm Arjun! 👋
 
 
@@ -27,6 +26,8 @@ ReactJS, Vue3, Javascript, HTML, CSS, Python and Golang
 😄 Pronouns he/him
 
 ⚡️ Fun fact: I can solve a rubik's cube in 30 seconds!
+
+![](https://komarev.com/ghpvc/?username=arjun-g-krishna&color=blue)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arjun-g-krishna.github.io/)
