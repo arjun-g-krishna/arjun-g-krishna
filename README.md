@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-Software Developer at IBM Kochi<br><br>
+Software Developer at IBM<br><br>
 Experienced in front-end web development and JavaScript frameworks like ReactJS.
 
 
